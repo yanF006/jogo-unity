@@ -13,12 +13,14 @@ public class MovimentoPlayer : MonoBehaviour
     public float danoInimigo = 10f;
     public float inclinacao = 18f;
     public GameOver gameOver;
+    public AudioClip[] clips;
 
     float movimentoX = 0f;
     private bool estaNoChao = true;
     private bool impulso = false;
     private SpriteRenderer sr;
     private Animator animator;
+    private AudioSource audioSrc;
 
     [SerializeField] public Rigidbody2D rb;
     [SerializeField] public ParticleSystem ps;
@@ -28,6 +30,7 @@ public class MovimentoPlayer : MonoBehaviour
     {
         sr = gameObject.GetComponent<SpriteRenderer>();
         animator = gameObject.GetComponent<Animator>();
+        audioSrc = gameObject.GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -66,6 +69,17 @@ public class MovimentoPlayer : MonoBehaviour
         {
             animator.SetBool("NoAr", true);
         }
+
+        if (Math.Abs(movimento.x) > 0.5f && estaNoChao && audioSrc.isPlaying == false)
+        {
+            audioSrc.clip = clips[0];
+            audioSrc.loop = true;
+            audioSrc.Play();
+        }
+        else if(estaNoChao)
+        {
+            audioSrc.Stop();
+        }
     }
 
     void Pular()
@@ -74,6 +88,9 @@ public class MovimentoPlayer : MonoBehaviour
         {
             rb.AddForce(Vector2.up * forcaPulo, ForceMode2D.Impulse);
             estaNoChao = false;
+            audioSrc.clip = clips[1];
+            audioSrc.loop = false;
+            audioSrc.Play();
         }
 
         if (Input.GetButtonUp("Jump") && !estaNoChao)
