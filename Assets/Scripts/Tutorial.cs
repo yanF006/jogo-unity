@@ -10,9 +10,14 @@ public class Tutorial : MonoBehaviour
         tutorial.SetActive(!tutorial.activeSelf);
     }
 
-    public void Jogar()
+    public void JogarInf()
     {
         SceneManager.LoadScene(1);
+    }
+
+    public void Jogar()
+    {
+        SceneManager.LoadScene(2);
     }
 
     public void Sair()

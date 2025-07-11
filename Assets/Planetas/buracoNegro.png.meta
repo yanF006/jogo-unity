@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: de2c26b8d38eca54c9cc10730bdcedab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3051975064627990796
+    second: buracoNegro_0
+  - first:
+      213: 4504152531295304243
+    second: buracoNegro_1
+  - first:
+      213: -3161790064649309368
+    second: buracoNegro_2
+  - first:
+      213: -2914566149515448502
+    second: buracoNegro_3
+  - first:
+      213: -8216132242684961330
+    second: buracoNegro_4
+  - first:
+      213: 6573734614022352713
+    second: buracoNegro_5
+  - first:
+      213: -5298166100725111103
+    second: buracoNegro_6
+  - first:
+      213: 5628495591173907165
+    second: buracoNegro_7
+  - first:
+      213: 6701340740187026874
+    second: buracoNegro_8
+  - first:
+      213: 8604947684272442755
+    second: buracoNegro_9
+  - first:
+      213: 1198599718875822363
+    second: buracoNegro_10
+  - first:
+      213: -1594781102156966894
+    second: buracoNegro_11
+  - first:
+      213: 5307599297949719017
+    second: buracoNegro_12
+  - first:
+      213: -9096459081592495756
+    second: buracoNegro_13
+  - first:
+      213: 3549722249785069823
+    second: buracoNegro_14
+  - first:
+      213: 3007511253798393303
+    second: buracoNegro_15
+  - first:
+      213: 7190569517530954423
+    second: buracoNegro_16
+  - first:
+      213: 6138611772703903984
+    second: buracoNegro_17
+  - first:
+      213: 2557317822722513435
+    second: buracoNegro_18
+  - first:
+      213: 6174437673018500374
+    second: buracoNegro_19
+  - first:
+      213: -8151702408382672514
+    second: buracoNegro_20
+  - first:
+      213: 5722207781147893474
+    second: buracoNegro_21
+  - first:
+      213: 1396142258226734851
+    second: buracoNegro_22
+  - first:
+      213: -4037892961084936059
+    second: buracoNegro_23
+  - first:
+      213: -3002422203459118167
+    second: buracoNegro_24
+  - first:
+      213: -4807237824395279875
+    second: buracoNegro_25
+  - first:
+      213: -2051182674970056010
+    second: buracoNegro_26
+  - first:
+      213: -3011091601851545829
+    second: buracoNegro_27
+  - first:
+      213: 6283635426752088948
+    second: buracoNegro_28
+  - first:
+      213: -1547711430237459523
+    second: buracoNegro_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buracoNegro_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 150
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c015086b62bca5a20800000000000000
+      internalID: 3051975064627990796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 29
+        width: 149
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a780afcd6f18e30800000000000000
+      internalID: 4504152531295304243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 28
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843f73620b01f14d0800000000000000
+      internalID: -3161790064649309368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_3
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 28
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fe0cf67816d87d0800000000000000
+      internalID: -2914566149515448502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 28
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd1127914f6afd80800000000000000
+      internalID: -8216132242684961330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 28
+        width: 150
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fed746dc89a3b50800000000000000
+      internalID: 6573734614022352713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_6
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 28
+        width: 151
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6634590022976b0800000000000000
+      internalID: -5298166100725111103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_7
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 29
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2e5cb4bee6c1e40800000000000000
+      internalID: 5628495591173907165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_8
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 29
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab573b1e5e1fffc50800000000000000
+      internalID: 6701340740187026874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_9
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 30
+        width: 153
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d01efe35aea6770800000000000000
+      internalID: 8604947684272442755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_10
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 30
+        width: 153
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19f977081842a010800000000000000
+      internalID: 1198599718875822363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_11
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 30
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2149d6f79033ed9e0800000000000000
+      internalID: -1594781102156966894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_12
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 30
+        width: 153
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9d76cc07168a940800000000000000
+      internalID: 5307599297949719017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_13
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 29
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471adcf09a2e2c180800000000000000
+      internalID: -9096459081592495756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_14
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 29
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff05db53495234130800000000000000
+      internalID: 3549722249785069823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_15
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 29
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d594a40d83dcb920800000000000000
+      internalID: 3007511253798393303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_16
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 28
+        width: 150
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba3f2101e80ac360800000000000000
+      internalID: 7190569517530954423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_17
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 28
+        width: 149
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f01c0e22eab03550800000000000000
+      internalID: 6138611772703903984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_18
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 27
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a9621b20b6d7320800000000000000
+      internalID: 2557317822722513435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_19
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 28
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615ae0c995200b550800000000000000
+      internalID: 6174437673018500374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_20
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 29
+        width: 149
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7197a169d55fde80800000000000000
+      internalID: -8151702408382672514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_21
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 29
+        width: 150
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eedb4ec8ad596f40800000000000000
+      internalID: 5722207781147893474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_22
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 29
+        width: 150
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307248d9cf7106310800000000000000
+      internalID: 1396142258226734851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_23
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 29
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5807b7ddeb586f7c0800000000000000
+      internalID: -4037892961084936059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_24
+      rect:
+        serializedVersion: 2
+        x: 4874
+        y: 29
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd219d9e04556d0800000000000000
+      internalID: -3002422203459118167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_25
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 30
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df109162ba2494db0800000000000000
+      internalID: -4807237824395279875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_26
+      rect:
+        serializedVersion: 2
+        x: 5278
+        y: 30
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba69f8893cb883e0800000000000000
+      internalID: -2051182674970056010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_27
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 30
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b170a7d34247636d0800000000000000
+      internalID: -3011091601851545829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_28
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 29
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b4e95e025f33750800000000000000
+      internalID: 6283635426752088948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buracoNegro_29
+      rect:
+        serializedVersion: 2
+        x: 5885
+        y: 29
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb62e187ac658ae0800000000000000
+      internalID: -1547711430237459523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buracoNegro_0: 3051975064627990796
+      buracoNegro_1: 4504152531295304243
+      buracoNegro_10: 1198599718875822363
+      buracoNegro_11: -1594781102156966894
+      buracoNegro_12: 5307599297949719017
+      buracoNegro_13: -9096459081592495756
+      buracoNegro_14: 3549722249785069823
+      buracoNegro_15: 3007511253798393303
+      buracoNegro_16: 7190569517530954423
+      buracoNegro_17: 6138611772703903984
+      buracoNegro_18: 2557317822722513435
+      buracoNegro_19: 6174437673018500374
+      buracoNegro_2: -3161790064649309368
+      buracoNegro_20: -8151702408382672514
+      buracoNegro_21: 5722207781147893474
+      buracoNegro_22: 1396142258226734851
+      buracoNegro_23: -4037892961084936059
+      buracoNegro_24: -3002422203459118167
+      buracoNegro_25: -4807237824395279875
+      buracoNegro_26: -2051182674970056010
+      buracoNegro_27: -3011091601851545829
+      buracoNegro_28: 6283635426752088948
+      buracoNegro_29: -1547711430237459523
+      buracoNegro_3: -2914566149515448502
+      buracoNegro_4: -8216132242684961330
+      buracoNegro_5: 6573734614022352713
+      buracoNegro_6: -5298166100725111103
+      buracoNegro_7: 5628495591173907165
+      buracoNegro_8: 6701340740187026874
+      buracoNegro_9: 8604947684272442755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

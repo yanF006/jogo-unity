@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 2580656298fbaf04f85ffe77e8a51e65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 200820829921149117
+    second: galaxia_0
+  - first:
+      213: 2635376982178033093
+    second: galaxia_1
+  - first:
+      213: -3160006829629368384
+    second: galaxia_2
+  - first:
+      213: -4436715556331521068
+    second: galaxia_3
+  - first:
+      213: -6881561627466343241
+    second: galaxia_4
+  - first:
+      213: -2354528243353834276
+    second: galaxia_5
+  - first:
+      213: -8005547235778654353
+    second: galaxia_6
+  - first:
+      213: 4347850812854683819
+    second: galaxia_7
+  - first:
+      213: -3848583022698423200
+    second: galaxia_8
+  - first:
+      213: -3924028237976029808
+    second: galaxia_9
+  - first:
+      213: -8506227220054671060
+    second: galaxia_10
+  - first:
+      213: -5056155956118964041
+    second: galaxia_11
+  - first:
+      213: -1156714829755216810
+    second: galaxia_12
+  - first:
+      213: 4724506195216124306
+    second: galaxia_13
+  - first:
+      213: 1624670319487973497
+    second: galaxia_14
+  - first:
+      213: -1574245886304880035
+    second: galaxia_15
+  - first:
+      213: 5471846493103164417
+    second: galaxia_16
+  - first:
+      213: -5492164765997885551
+    second: galaxia_17
+  - first:
+      213: 6039047606197776966
+    second: galaxia_18
+  - first:
+      213: 8213118457282407434
+    second: galaxia_19
+  - first:
+      213: -862191120924979697
+    second: galaxia_20
+  - first:
+      213: 8516773036961301556
+    second: galaxia_21
+  - first:
+      213: 4369838602725591656
+    second: galaxia_22
+  - first:
+      213: 5317292008015937431
+    second: galaxia_23
+  - first:
+      213: -469722088833559263
+    second: galaxia_24
+  - first:
+      213: 381756535670754827
+    second: galaxia_25
+  - first:
+      213: 5971659546390139729
+    second: galaxia_26
+  - first:
+      213: -1161882832794879447
+    second: galaxia_27
+  - first:
+      213: 3948121504848719441
+    second: galaxia_28
+  - first:
+      213: 2287322719498828875
+    second: galaxia_29
+  - first:
+      213: -4496185702344173237
+    second: galaxia_30
+  - first:
+      213: -3818653004826527645
+    second: galaxia_31
+  - first:
+      213: 8235237286027071179
+    second: galaxia_32
+  - first:
+      213: -3898992536630338028
+    second: galaxia_33
+  - first:
+      213: 1686492590512080374
+    second: galaxia_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: galaxia_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db003f61b7579c200800000000000000
+      internalID: 200820829921149117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 19
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd66f7076db29420800000000000000
+      internalID: 2635376982178033093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 18
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71228e7866524d0800000000000000
+      internalID: -3160006829629368384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 18
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbf86f45be9d62c0800000000000000
+      internalID: -4436715556331521068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 18
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcd8eee828cf70a0800000000000000
+      internalID: -6881561627466343241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 20
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc25499909035fd0800000000000000
+      internalID: -2354528243353834276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 22
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f8dca443596e090800000000000000
+      internalID: -8005547235778654353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 22
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c894474ba65c30800000000000000
+      internalID: 4347850812854683819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_8
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 23
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c167ba126179ac0800000000000000
+      internalID: -3848583022698423200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_9
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 21
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09536d2ab1d0b89c0800000000000000
+      internalID: -3924028237976029808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_10
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 22
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2102e9496fc3f980800000000000000
+      internalID: -8506227220054671060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_11
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 17
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8bd8252fce4d9b0800000000000000
+      internalID: -5056155956118964041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_12
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 16
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c830aadf582ffe0800000000000000
+      internalID: -1156714829755216810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_13
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 22
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2994df06a51d09140800000000000000
+      internalID: 4724506195216124306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_14
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 25
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97873363c0dfb8610800000000000000
+      internalID: 1624670319487973497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_15
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 21
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a7da505b7272ae0800000000000000
+      internalID: -1574245886304880035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_16
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 19
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c81e6f467efeb40800000000000000
+      internalID: 5471846493103164417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_17
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 22
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19797ca7e39e7c3b0800000000000000
+      internalID: -5492164765997885551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_18
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 21
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64277153dc10fc350800000000000000
+      internalID: 6039047606197776966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_19
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 18
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca580d8bbdaf170800000000000000
+      internalID: 8213118457282407434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_20
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 20
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e45cc5eb1e804f0800000000000000
+      internalID: -862191120924979697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_21
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 20
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43404bc04f7a13670800000000000000
+      internalID: 8516773036961301556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_22
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 19
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a8f398e09c4ac30800000000000000
+      internalID: 4369838602725591656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_23
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 22
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f30d8b8e0dac940800000000000000
+      internalID: 5317292008015937431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_24
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 20
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125dbe7bf363b79f0800000000000000
+      internalID: -469722088833559263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_25
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 19
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec65beb854c4500800000000000000
+      internalID: 381756535670754827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_26
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153972ed7b89fd250800000000000000
+      internalID: 5971659546390139729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_27
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 18
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af2a038b920efe0800000000000000
+      internalID: -1161882832794879447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_28
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 23
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ea692379b8ac630800000000000000
+      internalID: 3948121504848719441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_29
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 23
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c786605e33ebf10800000000000000
+      internalID: 2287322719498828875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_30
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 22
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d59fece65a91c0800000000000000
+      internalID: -4496185702344173237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_31
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 22
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36836def25b610bc0800000000000000
+      internalID: -3818653004826527645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_32
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 22
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce02b2fda0794270800000000000000
+      internalID: 8235237286027071179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_33
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 19
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41edf3812fef3e9c0800000000000000
+      internalID: -3898992536630338028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxia_34
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 19
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f50dcd5310a76710800000000000000
+      internalID: 1686492590512080374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      galaxia_0: 200820829921149117
+      galaxia_1: 2635376982178033093
+      galaxia_10: -8506227220054671060
+      galaxia_11: -5056155956118964041
+      galaxia_12: -1156714829755216810
+      galaxia_13: 4724506195216124306
+      galaxia_14: 1624670319487973497
+      galaxia_15: -1574245886304880035
+      galaxia_16: 5471846493103164417
+      galaxia_17: -5492164765997885551
+      galaxia_18: 6039047606197776966
+      galaxia_19: 8213118457282407434
+      galaxia_2: -3160006829629368384
+      galaxia_20: -862191120924979697
+      galaxia_21: 8516773036961301556
+      galaxia_22: 4369838602725591656
+      galaxia_23: 5317292008015937431
+      galaxia_24: -469722088833559263
+      galaxia_25: 381756535670754827
+      galaxia_26: 5971659546390139729
+      galaxia_27: -1161882832794879447
+      galaxia_28: 3948121504848719441
+      galaxia_29: 2287322719498828875
+      galaxia_3: -4436715556331521068
+      galaxia_30: -4496185702344173237
+      galaxia_31: -3818653004826527645
+      galaxia_32: 8235237286027071179
+      galaxia_33: -3898992536630338028
+      galaxia_34: 1686492590512080374
+      galaxia_4: -6881561627466343241
+      galaxia_5: -2354528243353834276
+      galaxia_6: -8005547235778654353
+      galaxia_7: 4347850812854683819
+      galaxia_8: -3848583022698423200
+      galaxia_9: -3924028237976029808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

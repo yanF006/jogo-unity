@@ -18,6 +18,7 @@ public class AtaqueEspada : MonoBehaviour
     private bool atacado = false;
     private bool lancado = false;
     private bool puxado = false;
+    private bool zerou = false;
     Vector2 direcao = new Vector2(0, 0);
 
     [SerializeField] private Rigidbody2D rb;
@@ -73,8 +74,17 @@ public class AtaqueEspada : MonoBehaviour
             Parar();
         }
 
-        if (energia < 100) energia += Time.deltaTime * 1f;
-        else if (energia > 100) energia = 100f;
+        if (energia <= 0) zerou = true;
+        else if (energia > 100)
+        {
+            energia = 100f;
+            zerou = false;
+        }
+
+        if (zerou)
+        {
+            energia += Time.deltaTime * 20f;
+        }
     }
 
     void Girar()

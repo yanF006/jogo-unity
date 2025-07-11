@@ -386,7 +386,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 283202490}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 00c163202c767ec4bb040544ea5ba5f4, type: 3}
   m_Name: 
@@ -1734,7 +1734,7 @@ MonoBehaviour:
   distancia: 1.5
   velocidade: 12
   distanciaMaxima: 12
-  distanciaMinima: 1
+  distanciaMinima: 1.5
   tempoAtaque: 0.1
   energia: 100
   corIdle: {r: 0.5019608, g: 0.3764706, b: 0.3764706, a: 1}
@@ -1895,6 +1895,7 @@ RectTransform:
   - {fileID: 225877853}
   - {fileID: 480716365}
   - {fileID: 1901852135}
+  - {fileID: 1960944471}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -7496,12 +7497,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1960944468}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -8104.523}
+  m_LocalScale: {x: 90.050255, y: 90.050255, z: 90.050255}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1317252465}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &9088025844667675617
 PrefabInstance:
@@ -7574,4 +7575,3 @@ SceneRoots:
   - {fileID: 1626280234}
   - {fileID: 1783865518}
   - {fileID: 1317252465}
-  - {fileID: 1960944471}
